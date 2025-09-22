@@ -2,7 +2,7 @@
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-一款自动化提取 **JobLeap 公众号 RSS 内容**、生成 AI 摘要并推送邮件的工具。基于 GPT-4o-mini 实现专业内容提炼，帮助职场人、HR 快速获取 JobLeap 核心资讯。
+一款自动化提取 **JobLeap 公众号 RSS 内容**、生成 AI 摘要并推送邮件的工具。基于 GPT-4o-mini 实现专业内容提炼，帮助职场人、HR 快速获取 JobLeap4u 核心资讯。
 
 
 ## 📋 项目简介
